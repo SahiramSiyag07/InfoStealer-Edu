@@ -1,0 +1,13 @@
+# Information Stealer - Educational Project Dependencies
+
+# Clipboard access
+pyperclip>=1.8.2
+
+# HTTP requests for public IP retrieval
+requests>=2.28.0
+
+# System information and process utilities
+psutil>=5.9.0
+
+# Cryptographic operations (if needed for advanced features)
+pycryptodome>=3.15.0
